@@ -19,6 +19,15 @@ We used machine learning models to predict churn and deployed the best-performin
 
 ---
 
+![Telecom Customer Churn Prediction](images/st_webapp_fs-1.png)
+
+---
+
+![Telecom Customer Churn Prediction](images/st_webapp_fs-2.png)
+
+---
+
+
 ## 🛠️ Tech Stack  
 
 - **Language**: Python 3.9+  
