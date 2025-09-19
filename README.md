@@ -99,4 +99,4 @@ We used machine learning models to predict churn and deployed the best-performin
 
 👤 **Muhammad Basharat Asghar**  
 - Data Scientist | Machine Learning Practitioner | End-to-End Projects  
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)  
+- [LinkedIn](https://www.linkedin.com/in/basharat-asghar/)  
